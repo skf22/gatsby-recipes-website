@@ -83,7 +83,7 @@ html {
 }
 
 body {
-  background: var(--backgroundColor);
+  background: var(--primary-100);
   color: var(--textColor);
   font-family: var(--bodyFont);
   font-weight: 400;
