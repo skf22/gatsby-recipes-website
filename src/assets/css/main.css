@@ -10,6 +10,7 @@
   /* COLORS  */
   /* primary */
   --primary-0: #f0efff;
+  --primary-25: #d9d8ecec;
   --primary-50: #d8d6ff;
   --primary-100: #c1beff;
   --primary-200: #aaa5ff;
@@ -83,7 +84,7 @@ html {
 }
 
 body {
-  background: var(--primary-100);
+  background: var(--primary-25);
   color: var(--textColor);
   font-family: var(--bodyFont);
   font-weight: 400;
